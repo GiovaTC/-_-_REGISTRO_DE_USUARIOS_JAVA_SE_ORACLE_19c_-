@@ -104,5 +104,5 @@ public class UserForm extends JFrame {
     private int parseInt(String value){
         try { return Integer.parseInt(value); }
         catch (Exception e) { return 0; }
-    }   
+    }
 }
