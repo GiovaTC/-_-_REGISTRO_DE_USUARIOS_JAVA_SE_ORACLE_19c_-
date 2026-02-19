@@ -1,7 +1,11 @@
 # -_-_REGISTRO_DE_USUARIOS_JAVA_SE_ORACLE_19c_- :. 
 # 🧑‍💻 REGISTRO DE USUARIOS – JAVA SE + ORACLE 19c:
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fc94ea71-c38d-4358-89f3-11c44d29f5c9" />  
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fc94ea71-c38d-4358-89f3-11c44d29f5c9" />    
+
+<img width="1279" height="1079" alt="image" src="https://github.com/user-attachments/assets/268e5e2f-f23e-4f04-9dc4-67595624bc73" />        
+
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/d57748c9-bf27-41c1-b344-434bf4a7a2a5" />    
 
 Implementación profesional en **Java SE (IntelliJ IDEA)** para un sistema de:
 
